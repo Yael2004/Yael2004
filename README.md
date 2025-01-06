@@ -23,10 +23,13 @@ I-am-Yael2004@github
 ```
 <hr>
 
-
+<p>
+  
 ## 🛠️ My Favorite Tools
 
 ### 👨‍💻 Programming Languages
+
+</p>
 
 <p>
     <img src="https://skillicons.dev/icons?i=java,cs,cpp,rust" /> 
