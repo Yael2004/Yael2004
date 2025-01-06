@@ -9,23 +9,22 @@ Hi, I'm Yael!
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" width="320" />
 <hr>
 
 ```
 I-am-Yael2004@github
--------------------------
+--------------------------------------------------
 💻 I am a Software Engineering student
 📝 I am passionate about video game development
 🔭 Working on improving my skills as a developer
 🌟 Main languages: C#, Rust
 🎮 Fan of the Shin Megami Tensei Persona saga
+--------------------------------------------------
 ```
-
 <hr>
 
-  
-## 🛠️ My Favorite Tools
+### 🛠️ My Favorite Tools
 
 ### 👨‍💻 Programming Languages
 
@@ -61,7 +60,6 @@ I-am-Yael2004@github
 
 |                                                                     Yael's Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Yael's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Yael2004&theme=react-dark&hide_border=true&area=true) |
 | ![Yael's github stats](https://github-readme-stats.vercel.app/api?username=Yael2004&show_icons=true&theme=algolia)              | 
 | ![Yael's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yael2004&theme=algolia)                    | 
     
