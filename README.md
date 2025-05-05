@@ -29,7 +29,7 @@ I-am-Yael2004@github
 ### 👨‍💻 Programming Languages
 
 <p>
-    <img src="https://skillicons.dev/icons?i=java,cs,cpp,rust" /> 
+    <img src="https://skillicons.dev/icons?i=java,cs,cpp,rust,js,py" /> 
   
 ### 🧰 Frameworks and Libraries
 
