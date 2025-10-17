@@ -18,7 +18,7 @@ I-am-Yael2004@github
 💻 I am a Software Engineering student
 📝 I am passionate about video game development
 🔭 Working on improving my skills as a developer
-🌟 Main languages: C#, Rust
+🌟 Main languages: C#, Java, C++
 🎮 Fan of the Shin Megami Tensei Persona saga
 --------------------------------------------------
 ```
