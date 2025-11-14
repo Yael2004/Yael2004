@@ -34,19 +34,24 @@ I-am-Yael2004@github
 ### 🧰 Frameworks and Libraries
 
 <p>
-    <img src="https://skillicons.dev/icons?i=dotnet" />
+    <img src="https://skillicons.dev/icons?i=dotnet,nodejs,sass,fastapi" />
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
 
 <p>
-    <img src="https://skillicons.dev/icons?i=mysql" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgre" />
+</p>
+
+### 🛠️ Servers, DevOps & Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=nginx,docker,linux" />
 </p>
 
 ### 💻 Software and Tools
 
 <p>
-    <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,postman,rabbitmq" />
 </p>
 
 ### 👨🏽‍💻 Workspace
