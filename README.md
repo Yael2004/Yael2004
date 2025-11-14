@@ -6,9 +6,10 @@ Hi, I'm Yael!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Always%20learning%20new%20things;Future%20Software%20Architect;Game%20Developer%20Apprentice&center=true&width=380&height=45">
+  </a>
 </p>
-
 <img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" width="320" />
 <hr>
 
@@ -26,15 +27,15 @@ I-am-Yael2004@github
 
 ### :3
 
-### 👨‍💻 Programming Languages
+### 👨‍💻 Languages & Technologies
 
 <p>
-    <img src="https://skillicons.dev/icons?i=java,cs,cpp,rust,js,py" /> 
+    <img src="https://skillicons.dev/icons?i=java,cs,cpp,rust,py,js,html,css,sass" /> 
   
 ### 🧰 Frameworks and Libraries
 
 <p>
-    <img src="https://skillicons.dev/icons?i=dotnet,nodejs,sass,fastapi" />
+    <img src="https://skillicons.dev/icons?i=dotnet,nodejs,fastapi" />
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
